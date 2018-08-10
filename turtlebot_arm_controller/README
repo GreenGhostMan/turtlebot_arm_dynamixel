@@ -1,0 +1,4 @@
+controller.launch file --> demo.launch ( moveit_config pkg )
+		---------> block_manipulation_moveit.launch ( block_manipulation pkg )
+		---------> calibrate.launch ( kinect_calibration pkg )
+		---------> object_manipulation_moveit.launch ( objeck_manipulation pkfg )
